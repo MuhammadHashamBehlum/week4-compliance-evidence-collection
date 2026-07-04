@@ -1,0 +1,9 @@
+Control,Objective,Required Evidence,Evidence Owner,Collection Frequency,Status
+A.5.1,Maintain approved information security policies,Policy approval records and version history,Information Security Manager,Annual,Active
+A.5.9,Maintain asset inventory,Asset inventory reports and ownership records,IT Asset Manager,Quarterly,Active
+A.5.23,Secure cloud services,Cloud configuration reports and supplier assessments,Cloud Administrator,Monthly,In Progress
+A.6.3,Provide security awareness training,Training records and completion reports,Human Resources Manager,Annual,Active
+A.6.8,Report security events,Incident tickets and investigation reports,Security Operations Team,Ongoing,Active
+A.8.2,Manage privileged access,Access review reports and approval records,IT Security Manager,Quarterly,In Progress
+A.8.5,Implement secure authentication,MFA configuration reports and password policy,System Administrator,Quarterly,Active
+A.8.15,Maintain security logging,SIEM dashboards and audit logs,Security Operations Team,Monthly,Active
